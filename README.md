@@ -13,3 +13,4 @@ What this disables
 - UAC (Admin access no permission needed, everything elevated)
 - HyperVisor Code Integrity
 - Microsoft Vuln Driver Blocklist
+##### in @resources.h these are just the exes from the other github converted into bytes and packaged into the final executable to make it fully offline
