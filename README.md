@@ -14,3 +14,12 @@ What this disables
 - HyperVisor Code Integrity
 - Microsoft Vuln Driver Blocklist
 ##### in @resources.h these are just the exes from the other github converted into bytes and packaged into the final executable to make it fully offline
+
+
+# Where is raw logic?
+
+The raw ps1 files and logic are in the /resources folder. good luck =D
+
+
+
+#### THIS CAN BE USED BY ANYONE, WITH OR WITHOUT CREDIT since its all public info.
